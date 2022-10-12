@@ -1,0 +1,6 @@
+"anderson"	2
+"bigdata"	2
+"joao"	1
+"palacio"	1
+"processamento"	1
+"prodesp"	3
